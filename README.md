@@ -1,2 +1,4 @@
 # About
-Bug track is an issue tracker build with Python Flask and Bootstrap.
+Boilerplate Flask/Bootstrap app for rapid prototyping
+
+
